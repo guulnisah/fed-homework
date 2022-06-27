@@ -1,0 +1,44 @@
+div {
+    width: 60%;
+    height: 160px;
+    margin-bottom: 16px;
+}
+
+.fixed {
+    background-color: #C4C4C4;
+    width: 103px;
+    height: 56px;
+    position: absolute;
+    position: fixed;
+    left: 369px;
+    border: black solid 1px;
+    z-index: 1;
+}
+
+.green-1 {
+    background-color: #5DAD87;
+}
+
+.red {
+    background-color: #BF1B1B;
+}
+
+.green-2 {
+    background-color: #48B83E;
+    position: relative;
+    left: 76px;
+}
+
+.grey {
+    background-color: #C4C4C4;
+    position: relative;
+}
+
+.blue {
+    background-color: #312EBA;
+    position: absolute;
+    width: 142px;
+    height: 60px;
+    left: 25px;
+    top: 20px;
+}
