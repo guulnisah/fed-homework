@@ -55,21 +55,19 @@ h1 {
 }
 
 /* images  */
-figure {
+
+.image-with-text {
+    background-image: url(images/flowers.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-bottom: 45px;
-    position: relative;
 }
 
-img {
-    display: block;
-    width: 100%;
-}
-
-figcaption {
+.image-text {
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-bottom: 45px;
     width: 25%;
-    position: absolute;
-    top: 30px;
-    left: 15px;
     font-style: italic;
     font-weight: 300;
     text-align: justify;
@@ -78,6 +76,7 @@ figcaption {
 }
 
 .img-2 {
+    display: block;
     width: 50%;
     border: 2px solid rgb(54, 181, 97);
     padding: 15px;
