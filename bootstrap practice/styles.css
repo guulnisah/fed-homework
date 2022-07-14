@@ -1,0 +1,35 @@
+.main-title {
+    margin-top: 65px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-size: 2.25rem;
+    color: #561515;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+}
+
+.main-subtitle {
+    margin-bottom: 45px;
+}
+
+p {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.container-date {
+    font-size: 0.75rem;
+    color: #1A040460;
+}
+
+.container-title {
+    font-size: 1.125rem;
+    color: #561515;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+}
+
+.container-info {
+    line-height: 1.3;
+}
