@@ -73,3 +73,7 @@ p {
         flex-direction: column;
     }
 }
+
+.container-right .img-right {
+    flex-direction: row-reverse;
+}
