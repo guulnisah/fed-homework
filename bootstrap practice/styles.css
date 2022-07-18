@@ -33,3 +33,7 @@ p {
 .container-info {
     line-height: 1.3;
 }
+
+img {
+    width: 100%;
+}
